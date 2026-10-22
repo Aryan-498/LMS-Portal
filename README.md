@@ -46,9 +46,7 @@ College-LMS-Portal/
 ---
 
 ## 👥 Team Members
-- **Aditya Singh**  
-- **Pradumn Pandey**  
-- **Paritosh Dhingra**
+- **Aryan Ranjan**
 
 ---
 
@@ -66,7 +64,7 @@ College-LMS-Portal/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Adityasingh6996/College-LMS-Portal.git
+   git clone https://github.com/Aryan-498/LMS-Portal
    ```
 
 2. Install frontend dependencies:
